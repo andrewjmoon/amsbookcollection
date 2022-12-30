@@ -17,7 +17,7 @@
     "@material-ui/icons": "^4.2.1",
     "@material-ui/styles": "^4.3.0",
     "dotenv": "^8.0.0",
-    "gatsby": "^2.13.42",
+    "gatsby": "^2.32.13",
     "gatsby-source-airtable": "^2.0.11",
     "gatsby-source-filesystem": "^2.1.6",
     "gatsby-theme-material-ui": "^1.0.0",
